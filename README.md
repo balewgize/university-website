@@ -15,10 +15,6 @@ University website landing page built with HTML5 &amp; CSS3. I built it while I 
 ### Facilities
 ![Alt text](images/facilities.png?raw=true "Facilities")
 
-### Testimonal
-![Alt text](images/testimonial.png?raw=true "Testimonials")
-
-
 ### Mobile Device
 ![Alt text](images/mobile.png?raw=true "Mobile device")
 
