@@ -10,7 +10,7 @@ University website landing page built with HTML5 &amp; CSS3. I built it while I 
 ## Usage
 
 ### Landing Page
-![Alt text](images/hero.png?raw=true "Landing Page")
+![Alt text](images/home.png?raw=true "Landing Page")
 
 ### Facilities
 ![Alt text](images/facilities.png?raw=true "Facilities")
