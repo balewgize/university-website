@@ -1,6 +1,6 @@
 ## university-website
 
-University website built with HTML &amp; CSS while learnig frontend.
+University website built with HTML &amp; CSS while learnig frontend. I built this website while I was refreshing my frontend knowledge.
 
 ## Features
 
@@ -13,13 +13,13 @@ University website built with HTML &amp; CSS while learnig frontend.
 ![Alt text](images/hero.png?raw=true "Landing Page")
 
 ### Testimonal
-![Alt text](images/testimonial.png.jpg?raw=true "Testimonials")
+![Alt text](images/testimonial.png?raw=true "Testimonials")
 
 ### Mobile Device
-![Alt text](images/mobile.png.jpg?raw=true "Mobile device")
+![Alt text](images/mobile.png?raw=true "Mobile device")
 
 ### Responsive Navigation
-![Alt text](images/nav.png.jpg?raw=true "Navigation")
+![Alt text](images/nav.png?raw=true "Navigation")
 
 
 
