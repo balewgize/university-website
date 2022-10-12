@@ -1,6 +1,6 @@
 ## university-website
 
-University website built with HTML &amp; CSS while learnig frontend. I built this website while I was refreshing my frontend knowledge.
+University website landing page built with HTML5 &amp; CSS3. I built it while I was refreshing my frontend knowledge.
 
 ## Features
 
@@ -14,6 +14,9 @@ University website built with HTML &amp; CSS while learnig frontend. I built thi
 
 ### Testimonal
 ![Alt text](images/testimonial.png?raw=true "Testimonials")
+
+### Facilities
+![Alt text](images/facilities.png?raw=true "Facilities")
 
 ### Mobile Device
 ![Alt text](images/mobile.png?raw=true "Mobile device")
